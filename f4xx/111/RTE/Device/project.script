@@ -1,0 +1,4 @@
+load STM32F407VGTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path E:\program\stm32\f4xx\111\RTE\Device\STM32F407VGTx\ 
